@@ -19,7 +19,7 @@ export const projectsData = [
         name: 'Nature Walk',
         description: 'An app that Shows Walking Events Around The City, And that lets you register / buy.',
         tools: ['Xcode', 'Photoshop', "Firebase"],
-        role: 'Responsible for the Authentication and The ___ Functionalities',
+        role: 'Responsible for the Authentication and The Database Functionalities',
         code: '',
         demo: '',
         image: travel,

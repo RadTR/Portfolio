@@ -2,7 +2,7 @@ export const personalData = {
   name: "Med Radhouan Terchella",
   profile: '/profile.png',
   designation: "Mobile Developer",
-  description: "My name is Mohamed Radhouan Terchella. I am a IT professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and especially Mobile Development, It is my passion. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "My name is Mohamed Radhouan Terchella. I am quite an experienced Mobile developer, for both Android and iOS, I'm an IT professional and enthuthiast, I am a quick learner with a self-learning attitude. I love to try and explore new technologies, I am passionate about Developing different Applications while keeping up with the modern User Interfaces, I also do almost all the stacks of web application development, I'm pretty confident in my skills when it comes to Mobile or Web Development, It is my passion after all. I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'Radhouan.terchella@gmail.com',
   phone: '+1 - 437 933 2848',
   address: 'Toronto, ON, Canada ',
