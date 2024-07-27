@@ -12,5 +12,6 @@ export const personalData = {
   twitter: 'https://twitter.com/#',
   stackOverflow: 'https://stackoverflow.com/',
   devUsername: "Rad",
-  resume: "https://drive.google.com/file/d/1FbO-z8dwBaDeMbS3P4Zpnx9SyUm_Z_49/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1FbO-z8dwBaDeMbS3P4Zpnx9SyUm_Z_49/view?usp=sharing",
+  transcript: "https://drive.google.com/file/d/1_R9yXGi8C2Eptz-Petl3lPPjgwoJJi0h/view?usp=sharing"
 }
